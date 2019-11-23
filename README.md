@@ -9,15 +9,15 @@ Stm32f103c8t6 Complementery pwm sinus inverter. You can use BluePill
 ![](images/2.png)
 
 ## Stm32 Settings
-+Debug
-	+Serial
-+ADC
-	+ADC0
-+Timer 1
-	+18kHz Pwm out 
-	+1ms DeadTime
-	+Complementary Mode
-	+PA8,9 and PB13,14 pin out
++ Debug
+	+ Serial
++ ADC
+	+ ADC1 An0
++ Timer 1
+	+ 18kHz Pwm out 
+	+ 1ms DeadTime
+	+ Complementary Mode
+	+ PA8,9 and PB13,14 pin out
 ![](images/3.png)
 
 ## Sinus Code
