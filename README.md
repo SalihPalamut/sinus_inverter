@@ -1,11 +1,16 @@
-# sinus_inverter
-Stm32f103c8t6 Complementery pwm sinus inverter. You can use BluePill
+# Pure Sinus Inverter
+Stm32f103c8t6 Complementery pwm sinus inverter. You can use BluePill.
+Compute yours feedback and writing yours codes.
 
-## Teory
+## Theory
 18kHz to 50Hz use 360 sinus table
+Project use Complementary Mode pwm and H bridge so V0 = duty %50.
+ 
 ![](images/1.png)
 
 ## Circuit
+Include Altium, BOM and pdf files.
+
 ![](images/2.png)
 
 ## Stm32 Settings
