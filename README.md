@@ -8,6 +8,10 @@ Project use Complementary Mode pwm and H bridge so V0 = duty %50.
  
 ![](images/1.png)
 
+## Video
+https://youtu.be/NGN4gsBzIUE
+
+[![Running Video](https://img.youtube.com/vi/NGN4gsBzIUE/0.jpg)](https://youtu.be/NGN4gsBzIUE)
 ## Circuit
 Include Altium, BOM and pdf files.
 
