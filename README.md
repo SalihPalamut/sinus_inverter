@@ -1,14 +1,14 @@
 # sinus_inverter
 Stm32f103c8t6 Complementery pwm sinus inverter. You can use BluePill
 
-##Teory
+## Teory
 18kHz to 50Hz use 360 sinus table
 ![](images/1.png)
 
-##Circuit
+## Circuit
 ![](images/2.png)
 
-##Stm32 Settings
+## Stm32 Settings
 +Debug
 	+Serial
 +ADC
@@ -20,7 +20,7 @@ Stm32f103c8t6 Complementery pwm sinus inverter. You can use BluePill
 	+PA8,9 and PB13,14 pin out
 ![](images/3.png)
 
-##Sinus Code
+## Sinus Code
 ```C
 //sinus values 0~179
 const float sinus_table[]={
